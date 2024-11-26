@@ -1,0 +1,6 @@
+﻿  Incidents.cpp
+  mainForm.cpp
+C:\Users\Vlad Kobzar\OneDrive\Документы\Політех\Курсова + БД\Курсач\project\Project2\Project2\mainForm.cpp(7,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  ClientItem.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project2.vcxproj -> C:\Users\Vlad Kobzar\OneDrive\Документы\Політех\Курсова + БД\Курсач\project\Project2\x64\Debug\Project2.exe

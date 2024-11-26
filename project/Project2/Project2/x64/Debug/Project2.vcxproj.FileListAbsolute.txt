@@ -1,0 +1,16 @@
+D:\project\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+D:\project\Project2\Project2\x64\Debug\Project2.mainForm.resources
+D:\project\Project2\Project2\x64\Debug\Project2.MyForm.resources
+D:\project\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+D:\project\Project2\Project2\x64\Debug\Project2.connectionRequest.resources
+D:\project\Project2\Project2\x64\Debug\Project2.Incidents.resources
+D:\project\Project2\Project2\x64\Debug\Project2.PaymentForm.resources
+D:\project\Project2\Project2\x64\Debug\Project2.lastPayment.resources
+C:\Users\Vlad Kobzar\OneDrive\Документы\Політех\Курсова + БД\Курсач\project\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\Vlad Kobzar\OneDrive\Документы\Політех\Курсова + БД\Курсач\project\Project2\Project2\x64\Debug\Project2.connectionRequest.resources
+C:\Users\Vlad Kobzar\OneDrive\Документы\Політех\Курсова + БД\Курсач\project\Project2\Project2\x64\Debug\Project2.Incidents.resources
+C:\Users\Vlad Kobzar\OneDrive\Документы\Політех\Курсова + БД\Курсач\project\Project2\Project2\x64\Debug\Project2.lastPayment.resources
+C:\Users\Vlad Kobzar\OneDrive\Документы\Політех\Курсова + БД\Курсач\project\Project2\Project2\x64\Debug\Project2.mainForm.resources
+C:\Users\Vlad Kobzar\OneDrive\Документы\Політех\Курсова + БД\Курсач\project\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\Vlad Kobzar\OneDrive\Документы\Політех\Курсова + БД\Курсач\project\Project2\Project2\x64\Debug\Project2.PaymentForm.resources
+C:\Users\Vlad Kobzar\OneDrive\Документы\Політех\Курсова + БД\Курсач\project\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
